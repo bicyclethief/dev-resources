@@ -1,3 +1,7 @@
+# Git
+- [http://onlywei.github.io/explain-git-with-d3/](http://onlywei.github.io/explain-git-with-d3/)
+- [http://www.git-tower.com/learn/](http://www.git-tower.com/learn/)
+
 # CSS
 ### Positioning/Layout
 - [Understanding CSS Positioning Part I](http://kilianvalkhof.com/2008/css-xhtml/understanding-css-positioning-part-1/)
