@@ -25,5 +25,6 @@
 - [Unspash (free high-res photos)](https://unsplash.com/)
 - [Font-Awesome (free icons)](http://fortawesome.github.io/Font-Awesome/icons/)
 - [Socialicious (social media icons)](http://shalinguyen.github.io/socialicious/)
+- [color palettes](http://www.colourlovers.com/palettes/most-loved/all-time/meta)
 - [award winning dev portfolio websites](http://www.awwwards.com/websites/portfolio/)
 
