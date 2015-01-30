@@ -14,8 +14,14 @@
 
 
 # VIM
-- 
+-
 
 
 # GitHub Markdown
 - [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+# Free High-Res Photos
+- [https://unsplash.com/](https://unsplash.com/)
+
+# Award Winning Developer Portfolio Websites
+- [http://www.awwwards.com/websites/portfolio/](http://www.awwwards.com/websites/portfolio/)
