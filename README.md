@@ -10,6 +10,7 @@
 
 
 # Emmet
+- [Fast Workflow: Mastering Emmet](http://www.sitepoint.com/faster-workflow-mastering-emmet-part-2/)
 - [http://docs.emmet.io/cheat-sheet/](http://docs.emmet.io/cheat-sheet/)
 
 
