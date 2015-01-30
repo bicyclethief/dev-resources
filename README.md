@@ -23,7 +23,7 @@
 
 # Misc
 - [free high-res photos](https://unsplash.com/)
-- [icons][http://fortawesome.github.io/Font-Awesome/icons/]
+- [icons](http://fortawesome.github.io/Font-Awesome/icons/)
 - [social media icons](http://shalinguyen.github.io/socialicious/)
 - [award winning dev portfolio websites](http://www.awwwards.com/websites/portfolio/)
 
