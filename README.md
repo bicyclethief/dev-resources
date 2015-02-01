@@ -10,9 +10,10 @@
 - [http://learnlayout.com/](http://learnlayout.com/)
 - [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 - [Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
+- [Ultimate Flexbox Cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 
 # Emmet
+- [7 Awesome Emmet HTML Time-Saving Tips](http://designshack.net/articles/css/7-awesome-emmet-html-time-saving-tips/)
 - [Fast Workflow: Mastering Emmet](http://www.sitepoint.com/faster-workflow-mastering-emmet-part-2/)
 - [Cheat Sheet](http://docs.emmet.io/cheat-sheet/)
 
