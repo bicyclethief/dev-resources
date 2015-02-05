@@ -2,6 +2,13 @@
 - [http://onlywei.github.io/explain-git-with-d3/](http://onlywei.github.io/explain-git-with-d3/)
 - [http://www.git-tower.com/learn/](http://www.git-tower.com/learn/)
 
+# GitHub Markdown
+- [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+# Emmet
+- [7 Awesome Emmet HTML Time-Saving Tips](http://designshack.net/articles/css/7-awesome-emmet-html-time-saving-tips/)
+- [Fast Workflow: Mastering Emmet](http://www.sitepoint.com/faster-workflow-mastering-emmet-part-2/)
+- [Cheat Sheet](http://docs.emmet.io/cheat-sheet/)
 
 # CSS
 ### Positioning/Layout
@@ -12,15 +19,10 @@
 - [Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Ultimate Flexbox Cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 
-# Emmet
-- [7 Awesome Emmet HTML Time-Saving Tips](http://designshack.net/articles/css/7-awesome-emmet-html-time-saving-tips/)
-- [Fast Workflow: Mastering Emmet](http://www.sitepoint.com/faster-workflow-mastering-emmet-part-2/)
-- [Cheat Sheet](http://docs.emmet.io/cheat-sheet/)
-
-
-# GitHub Markdown
-- [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
+# Test Code
+- [Refiddle (regular expressions)](http://refiddle.com/)
+- [CodePen (html/css/javascript)](http://codepen.io/)
+- [RubyFiddle (ruby)](http://rubyfiddle.com/)
 
 # Misc
 - [Unspash (free high-res photos)](https://unsplash.com/)
