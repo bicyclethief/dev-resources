@@ -37,4 +37,5 @@
 
 # References
 - [DevDocs](http://devdocs.io/)
+- [Ruby style guide](https://github.com/styleguide/ruby)
 
