@@ -26,6 +26,7 @@
 - [Refiddle (regular expressions)](http://refiddle.com/)
 - [CodePen (html/css/javascript)](http://codepen.io/)
 - [RubyFiddle (ruby)](http://rubyfiddle.com/)
+- [CodePad (ruby)](https://coderpad.io/)
 
 # Misc
 - [Unspash (free high-res photos)](https://unsplash.com/)
