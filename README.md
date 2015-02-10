@@ -19,6 +19,9 @@
 - [Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Ultimate Flexbox Cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 
+# Refactoring
+- [Refactoring Notes](http://ghendry.net/refactor.html)
+
 # Test Code
 - [Refiddle (regular expressions)](http://refiddle.com/)
 - [CodePen (html/css/javascript)](http://codepen.io/)
@@ -31,5 +34,6 @@
 - [color palettes](http://www.colourlovers.com/palettes/most-loved/all-time/meta)
 - [award winning dev portfolio websites](http://www.awwwards.com/websites/portfolio/)
 
-
+# References
 - [DevDocs](http://devdocs.io/)
+
