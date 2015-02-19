@@ -35,6 +35,9 @@
 - [color palettes](http://www.colourlovers.com/palettes/most-loved/all-time/meta)
 - [award winning dev portfolio websites](http://www.awwwards.com/websites/portfolio/)
 
+# UML Diagramming
+- [GenMyModel](http://genmymodel.com/)
+
 # References
 - [DevDocs](http://devdocs.io/)
 - [Ruby style guide](https://github.com/styleguide/ruby)
