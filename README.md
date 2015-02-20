@@ -40,6 +40,6 @@
 - [Draw.io](https://www.draw.io/)
 
 # References
-- [DevDocs](http://devdocs.io/)
 - [Ruby style guide](https://github.com/styleguide/ruby)
+- [JavaScript style guide](https://github.com/styleguide/javascript)
 
