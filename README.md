@@ -36,7 +36,7 @@
 - [award winning dev portfolio websites](http://www.awwwards.com/websites/portfolio/)
 
 # UML Diagramming
-- [GenMyModel](http://genmymodel.com/)
+- [Gliffy](http://www.gliffy.com)
 
 # References
 - [DevDocs](http://devdocs.io/)
