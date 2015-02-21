@@ -42,4 +42,6 @@
 # References
 - [Ruby style guide](https://github.com/styleguide/ruby)
 - [JavaScript style guide](https://github.com/styleguide/javascript)
+- [Google JavaScript style
+  guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
