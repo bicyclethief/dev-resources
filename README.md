@@ -39,9 +39,13 @@
 - [Gliffy](http://www.gliffy.com)
 - [Draw.io](https://www.draw.io/)
 
+# JavaScript
+- [45 Useful JavaScript Tips, Tricks, & Best
+  Practices](http://modernweb.com/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/)
+
 # References
 - [Ruby style guide](https://github.com/styleguide/ruby)
 - [JQuery JavaScript style guide](http://contribute.jquery.org/style-guide/js/)
 - [Google JavaScript style
   guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-
+ 
