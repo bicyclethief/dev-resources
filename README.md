@@ -45,7 +45,7 @@
 - [SQL Designer](https://socrates.devbootcamp.com/sql)
 
 # Ruby
-- [Enumerables](Ruby/enumerable_methods.pdf)
+- [Enumerables](http://bicyclethief.github.io/dev-resources/Ruby/enumerable_methods.pdf)
 
 # JavaScript
 - [45 Useful JavaScript Tips, Tricks, & Best
