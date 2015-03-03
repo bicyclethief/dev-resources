@@ -10,6 +10,9 @@
 - [Fast Workflow: Mastering Emmet](http://www.sitepoint.com/faster-workflow-mastering-emmet-part-2/)
 - [Cheat Sheet](http://docs.emmet.io/cheat-sheet/)
 
+# Web Colors
+- [ColorSafe - color contrast](https://medium.com/salesforce-ux/accessible-interface-design-d80e95cbb2c1)
+
 # CSS
 ### Positioning/Layout
 - [Understanding CSS Positioning Part I](http://kilianvalkhof.com/2008/css-xhtml/understanding-css-positioning-part-1/)
@@ -38,6 +41,7 @@
 # UML Diagramming
 - [Gliffy](http://www.gliffy.com)
 - [Draw.io](https://www.draw.io/)
+- [SQL Designer](https://socrates.devbootcamp.com/sql)
 
 # JavaScript
 - [45 Useful JavaScript Tips, Tricks, & Best
