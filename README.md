@@ -15,6 +15,7 @@
 
 # CSS
 ### Positioning/Layout
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Understanding CSS Positioning Part I](http://kilianvalkhof.com/2008/css-xhtml/understanding-css-positioning-part-1/)
 - [Understanding CSS Positioning Part II](http://kilianvalkhof.com/2008/css-xhtml/understanding-css-positioning-part-2/)
 - [http://learnlayout.com/](http://learnlayout.com/)
@@ -43,13 +44,16 @@
 - [Draw.io](https://www.draw.io/)
 - [SQL Designer](https://socrates.devbootcamp.com/sql)
 
+# Ruby
+- [Enumerables](Ruby/enumerable_methods.pdf)
+
 # JavaScript
 - [45 Useful JavaScript Tips, Tricks, & Best
   Practices](http://modernweb.com/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/)
-
-# References
-- [Ruby style guide](https://github.com/styleguide/ruby)
-- [JQuery JavaScript style guide](http://contribute.jquery.org/style-guide/js/)
-- [Google JavaScript style
-  guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ 
+# Style Guides
+- [Ruby](https://github.com/styleguide/ruby)
+- [JQuery JavaScript](http://contribute.jquery.org/style-guide/js/)
+- [Google JavaScript](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
  
