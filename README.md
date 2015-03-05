@@ -44,6 +44,9 @@
 - [Draw.io](https://www.draw.io/)
 - [SQL Designer](https://socrates.devbootcamp.com/sql)
 
+# RegEx
+- [Learning Regular Expressions](http://stackoverflow.com/questions/4736/learning-regular-expressions)
+
 # Ruby
 - [Enumerables](http://bicyclethief.github.io/dev-resources/Ruby/enumerable_methods.pdf)
 
