@@ -31,6 +31,8 @@
 - [CodePen (html/css/javascript)](http://codepen.io/)
 - [RubyFiddle (ruby)](http://rubyfiddle.com/)
 - [CoderPad (ruby)](https://coderpad.io/)
+- [CyberCrab Responsive Testing Tool](http://cybercrab.com/screencheck/)
+- [Screenfly](http://quirktools.com/screenfly/)
 
 # Misc
 - [Unspash (free high-res photos)](https://unsplash.com/)
