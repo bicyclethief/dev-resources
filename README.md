@@ -9,6 +9,7 @@
 - [7 Awesome Emmet HTML Time-Saving Tips](http://designshack.net/articles/css/7-awesome-emmet-html-time-saving-tips/)
 - [Fast Workflow: Mastering Emmet](http://www.sitepoint.com/faster-workflow-mastering-emmet-part-2/)
 - [Cheat Sheet](http://docs.emmet.io/cheat-sheet/)
+- [Docs](http://docs.emmet.io/)
 
 # Web Colors
 - [ColorSafe - color contrast](https://medium.com/salesforce-ux/accessible-interface-design-d80e95cbb2c1)
