@@ -51,7 +51,7 @@
 - [Learning Regular Expressions](http://stackoverflow.com/questions/4736/learning-regular-expressions)
 
 # Ruby
-- [Enumerables](http://bicyclethief.github.io/dev-resources/Ruby/enumerable_methods.pdf)
+- [Enumerables](http://bicyclethief.github.io/cheatsheets/ruby-enumerables.html)
 
 # JavaScript
 - [45 Useful JavaScript Tips, Tricks, & Best
