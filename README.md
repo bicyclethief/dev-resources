@@ -2,6 +2,9 @@
 - [http://onlywei.github.io/explain-git-with-d3/](http://onlywei.github.io/explain-git-with-d3/)
 - [http://www.git-tower.com/learn/](http://www.git-tower.com/learn/)
 
+# Vim
+- [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/vim)
+
 # GitHub Markdown
 - [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
