@@ -16,6 +16,7 @@
 
 # Web Colors
 - [ColorSafe - color contrast](https://medium.com/salesforce-ux/accessible-interface-design-d80e95cbb2c1)
+- [like this website's palette](https://www.enginethemes.com/themes/freelanceengine/)
 
 # CSS
 ### Positioning/Layout
