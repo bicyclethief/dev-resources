@@ -4,6 +4,7 @@
 
 # Vim
 - [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/vim)
+- [http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/](http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/)
 
 # GitHub Markdown
 - [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
