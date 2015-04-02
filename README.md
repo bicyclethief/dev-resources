@@ -1,3 +1,8 @@
+# ActiveRecord
+- [migrations](http://guides.rubyonrails.org/active_record_migrations.html)
+- [associations](http://guides.rubyonrails.org/association_basics.html)
+- [validations](http://guides.rubyonrails.org/active_record_validations.html)
+
 # Git
 - [http://onlywei.github.io/explain-git-with-d3/](http://onlywei.github.io/explain-git-with-d3/)
 - [http://www.git-tower.com/learn/](http://www.git-tower.com/learn/)
