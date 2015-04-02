@@ -3,6 +3,10 @@
 - [associations](http://guides.rubyonrails.org/association_basics.html)
 - [validations](http://guides.rubyonrails.org/active_record_validations.html)
 
+# Ruby
+- [Enumerables](http://bicyclethief.github.io/cheatsheets/ruby-enumerables.html)
+- [Better Specs](http://betterspecs.org/)
+
 # Git
 - [http://onlywei.github.io/explain-git-with-d3/](http://onlywei.github.io/explain-git-with-d3/)
 - [http://www.git-tower.com/learn/](http://www.git-tower.com/learn/)
@@ -60,10 +64,6 @@
 
 # RegEx
 - [Learning Regular Expressions](http://stackoverflow.com/questions/4736/learning-regular-expressions)
-
-# Ruby
-- [Enumerables](http://bicyclethief.github.io/cheatsheets/ruby-enumerables.html)
-- [Better Specs](http://betterspecs.org/)
 
 # JavaScript
 - [45 Useful JavaScript Tips, Tricks, & Best
