@@ -12,7 +12,7 @@
 - [http://www.git-tower.com/learn/](http://www.git-tower.com/learn/)
 
 # Vim
-- [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/vim)
+- [most popular vim plugins](http://vimawesome.com/)
 - [http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/](http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/)
 
 # GitHub Markdown
