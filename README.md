@@ -7,13 +7,14 @@
 - [Enumerables](http://bicyclethief.github.io/cheatsheets/ruby-enumerables.html)
 - [Better Specs](http://betterspecs.org/)
 
+# Vim
+- [cheat sheet](http://vim.rtorr.com/)
+- [most popular vim plugins](http://vimawesome.com/)
+- [http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/](http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/)
+
 # Git
 - [http://onlywei.github.io/explain-git-with-d3/](http://onlywei.github.io/explain-git-with-d3/)
 - [http://www.git-tower.com/learn/](http://www.git-tower.com/learn/)
-
-# Vim
-- [most popular vim plugins](http://vimawesome.com/)
-- [http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/](http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/)
 
 # GitHub Markdown
 - [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
