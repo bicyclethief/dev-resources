@@ -7,4 +7,11 @@
 + marks:
   + `m <key>` :sets mark
   + `' <key>` :returns cursor to mark
++ tabs:
+  + `:tabn <filename>` :open a file in a new tab 
+  + `gt` :move to the next tab
+  + `gT` :move to the previous tab
+  + `#gt` :move to tab number #
+  + `tabmove #` :move current tab to the #th position (indexed from 0)
+  + `tabo` :close all tabs except for current one
 
