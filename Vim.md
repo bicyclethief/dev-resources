@@ -4,9 +4,9 @@
 + `gi` switches to insertion mode placing the cursor at the same location it was previously
 + `*` will search for the word under the cursor
 + Easy Motion: `<leader><leader>s`
-+ `f <char>` look ahead for the next occurrence of character
-  + `;` next occurrence
-  + `,` previous occurrence
++ `f <char>` scan line for next occurrence of character
+  + `;` move to next occurrence
+  + `,` move to previous occurrence
 + marks:
   + `m <key>` sets mark
   + `' <key>` returns cursor to mark
