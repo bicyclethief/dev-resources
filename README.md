@@ -1,3 +1,9 @@
+# Sinatra
+- [ActiveRecord w/ Sinatra: YouTube](https://www.youtube.com/watch?v=-FJZQSHn7fc)
+- [FAQ](http://www.sinatrarb.com/faq.html)
+- [intro](http://www.sinatrarb.com/intro.html)
+- [Matt Bundy's sinatra book](http://sinatra-book.zencephalon.com/)
+
 # ActiveRecord
 - [migrations](http://guides.rubyonrails.org/active_record_migrations.html)
 - [associations](http://guides.rubyonrails.org/association_basics.html)
