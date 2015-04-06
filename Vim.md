@@ -10,6 +10,11 @@
 + marks:
   + `m <key>` sets mark
   + `' <key>` returns cursor to mark
++ window splits:
+  + `:split <filename>` split horizontal
+  + `:vsplit <filename>` split vertical
+  + `:only` close all windows except current one
+  + `<c-w> [h|j|k|l]` move focus to window according to direction
 + tabs:
   + `:tabn <filename>` open a file in a new tab 
   + `gt` move to the next tab
@@ -21,3 +26,5 @@
   + `<c-p>` invoke [CtrlP](https://github.com/kien/ctrlp.vim)
   + type in fuzzy file search
   + `<c-t>` to open as tab
+  + `<c-v>` to open in vertically split window
+  + `<c-x>` to open in horizontally split window
