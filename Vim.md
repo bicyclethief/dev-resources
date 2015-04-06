@@ -28,3 +28,10 @@
   + `<c-t>` to open as tab
   + `<c-v>` to open in vertically split window
   + `<c-x>` to open in horizontally split window
++ scrolling:
+  + `H` jump to the high part of the screen
+  + `M` jump to the middle part of the screen
+  + `L` jump to the low part of the screen
+  + `zt` scroll so the current line is at the top
+  + `zz` scroll so the current line is in the middle
+  + `zb` scroll so the current line is at the bottom
