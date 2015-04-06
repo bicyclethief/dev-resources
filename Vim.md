@@ -2,6 +2,8 @@
 # Useful Vim Tricks
 
 + `gi` switches to insertion mode placing the cursor at the same location it was previously
++ `g;` go back to the last location you edited (can be done multiple times going
+  back into history)
 + `*` will search for the word under the cursor
 + [EasyMotion](https://github.com/Lokaltog/vim-easymotion): `<leader><leader>s`
 + `f <char>` scan line for next occurrence of character
