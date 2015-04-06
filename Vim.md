@@ -3,7 +3,7 @@
 
 + `gi` switches to insertion mode placing the cursor at the same location it was previously
 + `*` will search for the word under the cursor
-+ Easy Motion: `<leader><leader>s`
++ [EasyMotion](https://github.com/Lokaltog/vim-easymotion): `<leader><leader>s`
 + `f <char>` scan line for next occurrence of character
   + `;` move to next occurrence
   + `,` move to previous occurrence
@@ -17,4 +17,7 @@
   + `#gt` move to tab number #
   + `tabmove #` move current tab to the #th position (indexed from 0)
   + `tabo` close all tabs except for current one
-
++ searching and opening files as a tab:
+  + <c-p> invoke [CtrlP](https://github.com/kien/ctrlp.vim)
+  + type in fuzzy file search
+  + <c-t> to open as tab
