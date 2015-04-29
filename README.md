@@ -1,3 +1,6 @@
+# Rails
+- [Rails testing cheatsheet](https://gist.github.com/kyletcarlson/6234923)
+
 # Sinatra
 - [ActiveRecord w/ Sinatra: YouTube](https://www.youtube.com/watch?v=-FJZQSHn7fc)
 - [FAQ](http://www.sinatrarb.com/faq.html)
