@@ -19,6 +19,7 @@
 - [http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/](http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/)
 
 # Git
+- [Git Immersion](http://gitimmersion.com/)
 - [http://onlywei.github.io/explain-git-with-d3/](http://onlywei.github.io/explain-git-with-d3/)
 - [http://www.git-tower.com/learn/](http://www.git-tower.com/learn/)
 
