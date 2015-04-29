@@ -1,5 +1,6 @@
 # Rails
-- [Rails testing cheatsheet](https://gist.github.com/kyletcarlson/6234923)
+- [testing cheatsheet](https://gist.github.com/kyletcarlson/6234923)
+- [testing controllers](http://everydayrails.com/2012/04/07/testing-series-rspec-controllers.html)
 
 # Sinatra
 - [ActiveRecord w/ Sinatra: YouTube](https://www.youtube.com/watch?v=-FJZQSHn7fc)
