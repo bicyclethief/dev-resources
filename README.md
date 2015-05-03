@@ -1,4 +1,5 @@
 # Rails
+- [Sublime Rails snippets cheatsheet](http://codeme.lt/sublime-rails-snippets/)
 - [testing cheatsheet](https://gist.github.com/kyletcarlson/6234923)
 - [testing controllers](http://everydayrails.com/2012/04/07/testing-series-rspec-controllers.html)
 
