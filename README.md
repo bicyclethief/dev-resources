@@ -79,6 +79,8 @@
 - [Learning Regular Expressions](http://stackoverflow.com/questions/4736/learning-regular-expressions)
 
 # JavaScript
+- [MVC
+  pattern](https://alexatnet.com/articles/model-view-controller-mvc-javascript)
 - [45 Useful JavaScript Tips, Tricks, & Best
   Practices](http://modernweb.com/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
