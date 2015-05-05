@@ -79,6 +79,7 @@
 - [Learning Regular Expressions](http://stackoverflow.com/questions/4736/learning-regular-expressions)
 
 # JavaScript
+- [JavaScript Design Patterns(book)](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [MVC
   pattern](https://alexatnet.com/articles/model-view-controller-mvc-javascript)
 - [45 Useful JavaScript Tips, Tricks, & Best
