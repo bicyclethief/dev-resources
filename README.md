@@ -19,6 +19,7 @@
 - [Better Specs](http://betterspecs.org/)
 
 # Vim
+- [Buffers vs Tabs](https://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/)
 - [cheat sheet](http://vim.rtorr.com/)
 - [most popular vim plugins](http://vimawesome.com/)
 - [http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/](http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/)
