@@ -29,6 +29,7 @@
 - [Git Immersion](http://gitimmersion.com/)
 - [http://onlywei.github.io/explain-git-with-d3/](http://onlywei.github.io/explain-git-with-d3/)
 - [http://www.git-tower.com/learn/](http://www.git-tower.com/learn/)
+- [How to Write the Perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 
 # GitHub Markdown
 - [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
