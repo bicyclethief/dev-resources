@@ -76,7 +76,7 @@
 - [Moqups](https://moqups.com/)
 - [Gliffy](http://www.gliffy.com)
 - [Draw.io](https://www.draw.io/)
-- [SQL Designer](https://socrates.devbootcamp.com/sql)
+- [SQL Designer](https://github.com/ondras/wwwsqldesigner)
 
 # RegEx
 - [Learning Regular Expressions](http://stackoverflow.com/questions/4736/learning-regular-expressions)
