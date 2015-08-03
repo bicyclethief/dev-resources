@@ -46,6 +46,7 @@
 
 # CSS
 ### Positioning/Layout
+- [How to Center in CSS](http://howtocenterincss.com/)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Understanding CSS Positioning Part I](http://kilianvalkhof.com/2008/css-xhtml/understanding-css-positioning-part-1/)
 - [Understanding CSS Positioning Part II](http://kilianvalkhof.com/2008/css-xhtml/understanding-css-positioning-part-2/)
